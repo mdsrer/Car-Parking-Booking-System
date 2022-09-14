@@ -11,9 +11,6 @@ This a Car Parking finder and Booking Web Application Project. This project is b
 
 
 <img src="https://www.linkpicture.com/q/44_63.jpg" width="700" height="332">
-
-<img src="https://www.linkpicture.com/q/55_10.jpg" width="700" height="332">
-
 <img src="https://www.linkpicture.com/q/66_3.jpg" width="700" height="332">
 
 
