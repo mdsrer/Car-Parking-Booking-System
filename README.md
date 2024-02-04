@@ -4,24 +4,15 @@ This a Car Parking finder and Booking Web Application Project. This project is b
 
 # Images
 
-<img src="https://freeimage.host/i/J0vYKUx
-" width="700" height="332">
-<img src="https://freeimage.host/i/J0vYJVe
-" width="700" height="332">
-<img src="https://freeimage.host/i/J0vYdiu
-" width="700" height="332">
-<img src="https://freeimage.host/i/J0vYFlj
-" width="700" height="332">
-<img src="https://freeimage.host/i/J0vY3Kb
-" width="700" height="332">
-<img src="https://freeimage.host/i/J0vYqHQ
-" width="700" height="332">
-<img src="https://freeimage.host/i/J0vYBRV
-" width="700" height="332">
-<img src="https://freeimage.host/i/J0vYCOB
-" width="700" height="332">
-<img src="https://freeimage.host/i/J0vYnDP
-" width="700" height="332">
+<img src="https://freeimage.host/i/J0vYKUx" width="700" height="332">
+<img src="https://freeimage.host/i/J0vYJVe" width="700" height="332">
+<img src="https://freeimage.host/i/J0vYdiu" width="700" height="332">
+<img src="https://freeimage.host/i/J0vYFlj" width="700" height="332">
+<img src="https://freeimage.host/i/J0vY3Kb" width="700" height="332">
+<img src="https://freeimage.host/i/J0vYqHQ" width="700" height="332">
+<img src="https://freeimage.host/i/J0vYBRV" width="700" height="332">
+<img src="https://freeimage.host/i/J0vYCOB" width="700" height="332">
+<img src="https://freeimage.host/i/J0vYnDP" width="700" height="332">
 
 
 
